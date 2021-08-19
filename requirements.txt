@@ -1,0 +1,6 @@
+tensorflow
+keras
+scipy
+numpy
+tqdm
+python_speech_features
